@@ -13,10 +13,10 @@ npm install -g yarn
 
 Running the app
 
-yarn start
+	yarn start
 
 Or
 
-expo start
-iOS: expo start --ios
-Android: expo start --android
+	- expo start
+	- iOS: expo start --ios
+	- Android: expo start --android
